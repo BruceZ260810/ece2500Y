@@ -1,4 +1,4 @@
-To compare the coordinates from different CSV files, you could use the following method:
+
 
 1. **Read the CSV Files**: Load both CSV files using a library like pandas, which allows you to work with data easily.
 
@@ -19,5 +19,3 @@ To compare the coordinates from different CSV files, you could use the following
 9. **Consistency Check for Likelihood**: You may also want to compare the `likelihood` values to check the consistency of the readings.
 
 10. **Correlation Analysis**: Calculate the correlation between the different sets of coordinates to see how closely they vary with each other.
-
-Once you have defined the method, you can translate this into code. Let me know if you need help with any specific step or if you're ready to proceed with writing the code.
